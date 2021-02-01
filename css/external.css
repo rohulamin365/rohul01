@@ -1,0 +1,122 @@
+    *{margin: 0px;padding: 0px;}
+
+    body{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+    .section_1{height:550px;
+    width: 100%;
+    background-color: #559882;}
+
+    .div1{width: 50%;
+    height: 100%;
+    float: left;}
+
+    .div2{width: 50%;
+    height: 50%;
+    margin: auto;
+    margin-top: 15%;
+    font-size: 30px;}
+
+    .btn{width: 150px;
+    height: 50px;
+    margin-top: 10px;
+    color: white;
+    background-color: tomato;
+    border: none;
+    font-size: large;
+    border-radius: 10px;}
+
+    .div3{width: 50%;
+    height: 100%;
+    float:left;}
+
+    .image_1{width: 70%;
+    height: 70%;
+    max-height: 80%;
+    margin-left: 15%;
+    margin-top: 8%;
+    border-radius: 200px;}
+
+    .div_5{width: 50%;
+    height: 100%;
+    float: left;}
+
+    .section3{height:800px;
+    width: 100%;
+    background-color: #5d5d5d;}
+    .section4{height:560px;
+    width: 100%;
+    padding-top: 100px;
+    background-color:#9a7f6b;}
+
+
+    .sec3div1{width: 50%;margin: auto;}
+
+    .flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 80%;
+    margin: auto;
+    }
+
+
+    .flex-container > div {
+    background-color: #f1f1f1;
+    width: 30%;
+    height: 400px;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top:5px;
+    margin:auto;
+    border-radius: 5px;}
+
+    .sec3h1 {
+    text-align: center;
+    padding-top: 100px;
+    font-size: 50px;
+    padding-bottom: 100px;
+    }
+
+    .sec3div2{text-align: left;
+    padding-top: 20px;
+    font-size: large;}
+
+    .sec4div1{width: 50%;
+    height:150px;margin:auto;
+    border-radius: 40px;
+    background-color:blue;
+    padding-top: 50px;}
+
+    .sec4div5{width: 50%;
+    margin-left:100px ;
+    font-size:30px;
+    padding-top: 20px;
+    float: left;
+    font-size: 30px;}
+
+    .sec4div6{float: right;
+    width: 50%;
+    height: 100px;
+    text-align: center;
+    margin-top: -61px;}
+
+    .sec4div7{width: 50%;
+    height:300px;
+    margin:auto;
+    text-align: center;
+    margin-top: 10px;}
+
+    .sec4div8{padding-top:60px;
+    text-align: center;}
+
+    .imageDiv{margin: auto;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    }
+    .sub_imageDiv{width:90px;
+    height: 50px;
+    float: left;}
+
+    .link{text-decoration: none;
+    color:white;}
